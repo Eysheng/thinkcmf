@@ -24,9 +24,14 @@ class ComposerStaticInit929fb365b9981d29459d58f676689cf7
         array (
             'mindplay\\annotations\\' => 21,
         ),
+        'S' => 
+        array (
+            'Symfony\\Component\\EventDispatcher\\' => 34,
+        ),
         'Q' => 
         array (
             'Qiniu\\' => 6,
+            'QCloud_WeApp_SDK\\' => 17,
         ),
         'F' => 
         array (
@@ -55,9 +60,17 @@ class ComposerStaticInit929fb365b9981d29459d58f676689cf7
         array (
             0 => __DIR__ . '/..' . '/mindplay/annotations/src/annotations',
         ),
+        'Symfony\\Component\\EventDispatcher\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/event-dispatcher',
+        ),
         'Qiniu\\' => 
         array (
             0 => __DIR__ . '/..' . '/qiniu/php-sdk/src/Qiniu',
+        ),
+        'QCloud_WeApp_SDK\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/qcloud/weapp-sdk/lib',
         ),
         'FontLib\\' => 
         array (
@@ -81,6 +94,13 @@ class ComposerStaticInit929fb365b9981d29459d58f676689cf7
                 0 => __DIR__ . '/..' . '/sabberworm/php-css-parser/lib',
             ),
         ),
+        'Q' => 
+        array (
+            'Qcloud\\Cos\\' => 
+            array (
+                0 => __DIR__ . '/..' . '/qcloud/cos-sdk-v5/src',
+            ),
+        ),
         'P' => 
         array (
             'PHPExcel' => 
@@ -93,6 +113,17 @@ class ComposerStaticInit929fb365b9981d29459d58f676689cf7
             'HTMLPurifier' => 
             array (
                 0 => __DIR__ . '/..' . '/ezyang/htmlpurifier/library',
+            ),
+        ),
+        'G' => 
+        array (
+            'Guzzle\\Tests' => 
+            array (
+                0 => __DIR__ . '/..' . '/guzzle/guzzle/tests',
+            ),
+            'Guzzle' => 
+            array (
+                0 => __DIR__ . '/..' . '/guzzle/guzzle/src',
             ),
         ),
     );
