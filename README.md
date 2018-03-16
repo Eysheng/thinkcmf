@@ -78,7 +78,7 @@ escmf  根目录
 │  ├─robots.txt         爬虫协议文件
 │  ├─router.php         快速测试文件
 │  └─.htaccess          apache重写文件
-├─simplewind         
+├─eysheng         
 │  ├─cmf                CMF核心库目录
 │  ├─extend             扩展类库目录
 │  ├─thinkphp           thinkphp目录
