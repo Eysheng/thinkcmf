@@ -47,7 +47,7 @@ https://www.thinkcmf.com/topic/1502.html
 
 ### 完整版目录结构
 ```
-escmf  根目录
+escms  根目录
 ├─app                   应用目录
 │  ├─portal             门户应用目录
 │  │  ├─config.php      应用配置文件
