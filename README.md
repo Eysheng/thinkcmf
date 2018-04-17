@@ -1,7 +1,7 @@
-EsCMF V1.0
+EsCMS V1.0
 ===============
 
-### EsCMF主要特性
+### EsCMS主要特性
 * 基于全新 ThinkPHP5.0 + ThinkCMF5开发
 * 更规范的代码,遵循PSR-2命名规范和PSR-4自动加载规范
 * 更规范的数据库设计
